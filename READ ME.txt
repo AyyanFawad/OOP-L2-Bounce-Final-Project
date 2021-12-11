@@ -1,6 +1,6 @@
 - After extracting this folder, rename the vscode folder to .vscode
 - Open this folder in VSCode
-- Open Game.hpp and GameObject.hpp and rename the #include "SDL2/SDL.h" and #include "SDL2/SDL.h" to #include "SDL.h" and #include "SDL.h" if you are on windows
+- Open Game.hpp and GameObject.hpp and change the #include "SDL2/SDL.h" and #include "SDL2/SDL.h" to #include "SDL.h" and #include "SDL.h" if you are on windows
 - No changes needed if on mac
 
 - Open VSCode terminal and put this command to compile everything:
